@@ -1,0 +1,21 @@
+.App{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.data-container{
+    border-bottom: 2px solid gray;
+    width: 100%;
+    text-align: center;
+}
+
+button{
+    margin-top: 10px;
+    cursor: pointer;
+    width: 175px;
+    height: 35px;
+}
